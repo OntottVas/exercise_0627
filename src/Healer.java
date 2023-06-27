@@ -1,2 +1,2 @@
-public interface Healer {
+public class Healer {
 }

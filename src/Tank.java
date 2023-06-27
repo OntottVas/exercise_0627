@@ -1,2 +1,2 @@
-public interface Tank {
+public class Tank {
 }
